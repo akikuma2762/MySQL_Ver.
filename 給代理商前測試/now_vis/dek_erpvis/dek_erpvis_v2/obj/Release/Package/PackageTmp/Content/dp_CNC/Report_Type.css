@@ -1,0 +1,172 @@
+﻿body {
+}
+/*維護作業 進入報工 報工總覽的按鈕樣式*/
+.btn_css {
+    color: white;
+    height: 100px;
+    width: 85%;
+    border: 2px blue none;
+    border-radius: 10px;
+    font-size: 50px;
+    box-shadow: 3px 3px 9px gray;
+}
+
+.btn_brown {
+    background-color: #843c0c;
+}
+
+.btn_green {
+    background-color: green;
+}
+
+.btn_blue {
+    background-color: #5b9bd5;
+}
+
+.btn_purple {
+    background-color: #CC66FF;
+}
+
+/*剩下的按鈕樣式*/
+.btn_orange {
+    height: 55px;
+    width: 100%;
+    border: 2px blue none;
+    border-radius: 10px;
+    color: white;
+    background-color: #ed7d31;
+    box-shadow: 3px 3px 9px gray;
+}
+/*div樣式*/
+.div_style {
+    background-color: bisque;
+    height: 55px;
+    vertical-align: middle;
+    text-align: center;
+    font-size: 29px;
+    line-height: 49px;
+}
+
+/*空白的長度*/
+.div_space {
+    padding-bottom: 15%
+}
+
+@media screen and (min-width:768px) {
+    .div_space2 {
+        padding-top: 9%
+    }
+}
+
+/*DataTable不需要的部分隱藏*/
+#Table_Machine_length {
+    display: none;
+}
+
+#Table_Machine_filter {
+    display: none;
+}
+
+#Table_Machine_info {
+    display: none;
+}
+
+#Table_Machine_paginate {
+    display: none;
+}
+
+#Table_Order_length {
+    display: none;
+}
+
+#Table_Order_filter {
+    display: none;
+}
+
+#Table_Order_info {
+    display: none;
+}
+
+#Table_Order_paginate {
+    display: none;
+}
+
+#Table_NowImformation_length {
+    display: none;
+}
+
+#Table_NowImformation_filter {
+    display: none;
+}
+
+#Table_NowImformation_info {
+    display: none;
+}
+
+#Table_NowImformation_paginate {
+    display: none;
+}
+
+#Table_Person_length {
+    display: none;
+}
+
+#Table_Person_filter {
+    display: none;
+}
+
+#Table_Person_info {
+    display: none;
+}
+
+#Table_Person_paginate {
+    display: none;
+}
+
+#Table_SubmitMachine_length {
+    display: none;
+}
+
+#Table_SubmitMachine_filter {
+    display: none;
+}
+
+#Table_SubmitMachine_info {
+    display: none;
+}
+
+#Table_SubmitMachine_paginate {
+    display: none;
+}
+
+#Table_SubmitOrder_length {
+    display: none;
+}
+
+#Table_SubmitOrder_filter {
+    display: none;
+}
+
+#Table_SubmitOrder_info {
+    display: none;
+}
+
+#Table_SubmitOrder_paginate {
+    display: none;
+}
+
+#Table_SubmitPerson_length {
+    display: none;
+}
+
+#Table_SubmitPerson_filter {
+    display: none;
+}
+
+#Table_SubmitPerson_info {
+    display: none;
+}
+
+#Table_SubmitPerson_paginate {
+    display: none;
+}

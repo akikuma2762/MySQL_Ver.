@@ -1,0 +1,184 @@
+﻿.breadcrumb_ {
+    padding: 0px 0px;
+    margin-bottom: 20px;
+    list-style: none;
+    background-color: #f5f5f5;
+    border-radius: 4px;
+}
+
+.breadcrumb_ > li {
+    display: inline-block;
+}
+
+.breadcrumb_ > li + li:before {
+    padding: 0 5px;
+    color: #ccc;
+    content: "/\00a0";
+}
+
+.breadcrumb_ > .active {
+    color: #777;
+}
+
+.Div_Shadow {
+    box-shadow: 3px 3px 9px gray;
+}
+
+.tile_count div .count_top i {
+    display: inline-block;
+}
+
+
+
+
+@media screen and (max-width:768px) {
+    .Div_Shadow {
+        box-shadow: none;
+    }
+
+    #_Title {
+        padding: 0;
+    }
+
+    #_Title .x_panel {
+        overflow-x: scroll;
+    }
+    #_Title > .x_panel > .x_content > .col-md-12,
+    #_Title > .x_panel > .x_content > .col-md-12 > .x_panel {
+        padding: 0;
+    }
+    .tile_count {
+        padding: 0 10px;
+    }
+
+    #TB {
+        font-size: 0.6em;
+    }
+    
+    #TB tbody tr {
+        white-space: nowrap;
+    }
+
+    #TB tbody tr td{
+        padding: 4px;
+        vertical-align:middle;
+    }
+
+    /*-----*/
+    .tile_count div {
+        width: 25%;
+        float: left;
+    }
+
+    .tile_count div .count_top i {
+        display: none;
+    }
+
+}
+
+
+#testmodal2 {
+    padding: 5px 20px;
+}
+
+@media screen and (max-width:768px) {
+    #myModalLabel2 i {
+        margin-right: 10px;
+    }
+
+    #testmodal2 {
+        padding: 0;
+    }
+
+        #testmodal2 div.form-group h5 {
+            width: 35%;
+            display: inline-block;
+        }
+
+        #testmodal2 div.form-group div,
+        #testmodal2 div.form-group select,
+        #testmodal2 div.form-group fieldset {
+            width: 63%;
+            display: inline-block;
+        }
+
+            #testmodal2 div.form-group:last-child fieldset,
+            #testmodal2 div.form-group fieldset select {
+                width: 100%;
+            }
+
+        #testmodal2 div.form-group fieldset {
+            height: 45px;
+            line-height: 45px;
+        }
+
+    #ContentPlaceHolder1_RadioButtonList_select_type {
+        width: 100%;
+    }
+
+    #testmodal2 div.form-group fieldset tbody tr {
+        width: 32%;
+        display: inline-block;
+    }
+
+        #testmodal2 div.form-group fieldset tbody tr input {
+            margin-right: 5px;
+        }
+
+    .modal-footer .btn-primary, #btncheck {
+        width: 47%;
+        display: inline-block;
+    }
+
+    #exampleModal .modal-body {
+        padding-bottom: 0;
+    }
+
+    #exampleModal .modal-footer {
+        width: 100%;
+        padding: 10px;
+        margin-bottom: 10px;
+    }
+}
+
+
+/*手機*/
+@media screen and (max-width: 765px) {
+
+    .tooltip-inner {
+        max-width: 200px;
+        /* If max-width does not work, try using width instead */
+        width: 200px;
+        filter: alpha(opacity=0);
+    }
+
+
+    .tooltip.in {
+        opacity: 1 !important;
+    }
+    .margin_style {
+        margin-bottom: 5px;
+        margin-left: 200px;
+        
+    }
+}
+/*電腦*/
+@media screen and (min-width: 765px) {
+
+    .tooltip-inner {
+        max-width: 250px;
+        /* If max-width does not work, try using width instead */
+        width: 250px;
+        font-size: 18px;
+        filter: alpha(opacity=0);
+    }
+
+    .tooltip.in {
+        opacity: 1 !important;
+    }
+    .margin_style {
+        margin-bottom: 15px;
+        margin-left: 450px
+    }
+}
+		

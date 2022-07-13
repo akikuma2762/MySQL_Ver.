@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{43E09057-E96A-46B7-84BA-B7D6C26B022A}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>dekERP_dll</RootNamespace>
+    <AssemblyName>dekERP_dll</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DBUtils">
+      <HintPath>..\..\..\..\德大現在使用的版本\now_vis\dek_erpvis\dekERP_dll\bin\Release\DBUtils.dll</HintPath>
+    </Reference>
+    <Reference Include="dekBase">
+      <HintPath>..\..\..\..\要綁定的DLL\dekBase.dll</HintPath>
+    </Reference>
+    <Reference Include="dekSecure, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\要綁定的DLL\dekSecure.dll</HintPath>
+    </Reference>
+    <Reference Include="MongoDB.Bson">
+      <HintPath>..\dek_erpvis_v2\bin\MongoDB.Bson.dll</HintPath>
+    </Reference>
+    <Reference Include="MongoDB.Driver">
+      <HintPath>..\dek_erpvis_v2\bin\MongoDB.Driver.dll</HintPath>
+    </Reference>
+    <Reference Include="MongoDB.Driver.Core">
+      <HintPath>..\dek_erpvis_v2\bin\MongoDB.Driver.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="MongoUtils">
+      <HintPath>..\..\..\..\德大現在使用的版本\now_vis\dek_erpvis\dek_erpvis_v2\bin\MongoUtils.dll</HintPath>
+    </Reference>
+    <Reference Include="Oracle.ManagedDataAccess">
+      <HintPath>..\..\..\..\要綁定的DLL\Oracle.ManagedDataAccess.dll</HintPath>
+    </Reference>
+    <Reference Include="Support">
+      <HintPath>..\..\..\..\德大現在使用的版本\now_vis\dek_erpvis\dekERP_dll\bin\Release\Support.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="dekErp\ERP_cnc.cs" />
+    <Compile Include="dekErp\ERP_Customized.cs" />
+    <Compile Include="dekErp\ERP_House.cs" />
+    <Compile Include="dekErp\ERP_Materials.cs" />
+    <Compile Include="dekErp\ERP_Product.cs" />
+    <Compile Include="dekErp\ERP_Sales.cs" />
+    <Compile Include="dekErp\iTechDB.cs" />
+    <Compile Include="dekErp\iTec_House.cs" />
+    <Compile Include="dekErp\iTec_Materials.cs" />
+    <Compile Include="dekErp\iTec_Product.cs" />
+    <Compile Include="dekErp\iTec_Sales.cs" />
+    <Compile Include="dekErp\WebUtils.cs" />
+    <Compile Include="IErpVis.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

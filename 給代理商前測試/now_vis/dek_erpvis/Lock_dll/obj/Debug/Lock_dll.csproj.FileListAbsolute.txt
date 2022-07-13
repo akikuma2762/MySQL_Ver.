@@ -1,0 +1,16 @@
+D:\Project\Program\VIS\客戶20220429\給代理商前測試\now_vis\dek_erpvis\Lock_dll\obj\Debug\Lock_dll.csproj.CoreCompileInputs.cache
+D:\Project\Program\VIS\客戶20220429\給代理商前測試\now_vis\dek_erpvis\Lock_dll\obj\Debug\Lock_dll.csproj.AssemblyReference.cache
+D:\Project\Program\VIS\客戶2022\給代理商前測試\now_vis\dek_erpvis\Lock_dll\bin\Debug\Lock_dll.dll
+D:\Project\Program\VIS\客戶2022\給代理商前測試\now_vis\dek_erpvis\Lock_dll\bin\Debug\Lock_dll.pdb
+D:\Project\Program\VIS\客戶2022\給代理商前測試\now_vis\dek_erpvis\Lock_dll\obj\Debug\Lock_dll.csproj.CoreCompileInputs.cache
+D:\Project\Program\VIS\客戶2022\給代理商前測試\now_vis\dek_erpvis\Lock_dll\obj\Debug\Lock_dll.csproj.CopyComplete
+D:\Project\Program\VIS\客戶2022\給代理商前測試\now_vis\dek_erpvis\Lock_dll\obj\Debug\Lock_dll.dll
+D:\Project\Program\VIS\客戶2022\給代理商前測試\now_vis\dek_erpvis\Lock_dll\obj\Debug\Lock_dll.pdb
+D:\Project\Program\VIS\客戶2022\給代理商前測試\now_vis\dek_erpvis\Lock_dll\obj\Debug\Lock_dll.csproj.AssemblyReference.cache
+D:\Litz\客戶2022\給代理商前測試\now_vis\dek_erpvis\Lock_dll\bin\Debug\Lock_dll.dll
+D:\Litz\客戶2022\給代理商前測試\now_vis\dek_erpvis\Lock_dll\bin\Debug\Lock_dll.pdb
+D:\Litz\客戶2022\給代理商前測試\now_vis\dek_erpvis\Lock_dll\obj\Debug\Lock_dll.csproj.AssemblyReference.cache
+D:\Litz\客戶2022\給代理商前測試\now_vis\dek_erpvis\Lock_dll\obj\Debug\Lock_dll.csproj.CoreCompileInputs.cache
+D:\Litz\客戶2022\給代理商前測試\now_vis\dek_erpvis\Lock_dll\obj\Debug\Lock_dll.csproj.CopyComplete
+D:\Litz\客戶2022\給代理商前測試\now_vis\dek_erpvis\Lock_dll\obj\Debug\Lock_dll.dll
+D:\Litz\客戶2022\給代理商前測試\now_vis\dek_erpvis\Lock_dll\obj\Debug\Lock_dll.pdb

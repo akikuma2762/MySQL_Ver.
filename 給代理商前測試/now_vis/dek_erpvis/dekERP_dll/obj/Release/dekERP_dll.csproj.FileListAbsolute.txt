@@ -1,0 +1,101 @@
+D:\VIS\供應商 Ver.2\now_vis\dek_erpvis\dekERP_dll\bin\Release\dekERP_dll.dll
+D:\VIS\供應商 Ver.2\now_vis\dek_erpvis\dekERP_dll\bin\Release\dekERP_dll.pdb
+D:\VIS\供應商 Ver.2\now_vis\dek_erpvis\dekERP_dll\bin\Release\MongoDB.Bson.dll
+D:\VIS\供應商 Ver.2\now_vis\dek_erpvis\dekERP_dll\bin\Release\MongoDB.Driver.Core.dll
+D:\VIS\供應商 Ver.2\now_vis\dek_erpvis\dekERP_dll\bin\Release\MongoDB.Driver.dll
+D:\VIS\供應商 Ver.2\now_vis\dek_erpvis\dekERP_dll\bin\Release\MongoUtils.dll
+D:\VIS\供應商 Ver.2\now_vis\dek_erpvis\dekERP_dll\bin\Release\Support.dll
+D:\VIS\供應商 Ver.2\now_vis\dek_erpvis\dekERP_dll\bin\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\VIS\供應商 Ver.2\now_vis\dek_erpvis\dekERP_dll\bin\Release\EPPlus.dll
+D:\VIS\供應商 Ver.2\now_vis\dek_erpvis\dekERP_dll\bin\Release\WinSound.dll
+D:\VIS\供應商 Ver.2\now_vis\dek_erpvis\dekERP_dll\bin\Release\CProgBar.dll
+D:\VIS\供應商 Ver.2\now_vis\dek_erpvis\dekERP_dll\bin\Release\Aforge-all.dll
+D:\VIS\供應商 Ver.2\now_vis\dek_erpvis\dekERP_dll\bin\Release\AGauge.dll
+D:\VIS\供應商 Ver.2\now_vis\dek_erpvis\dekERP_dll\bin\Release\MyUtils.dll
+D:\VIS\供應商 Ver.2\now_vis\dek_erpvis\dekERP_dll\obj\Release\dekERP_dll.csprojAssemblyReference.cache
+D:\VIS\供應商 Ver.2\now_vis\dek_erpvis\dekERP_dll\obj\Release\dekERP_dll.csproj.CopyComplete
+D:\VIS\供應商 Ver.2\now_vis\dek_erpvis\dekERP_dll\obj\Release\dekERP_dll.dll
+D:\VIS\供應商 Ver.2\now_vis\dek_erpvis\dekERP_dll\obj\Release\dekERP_dll.pdb
+C:\Users\user\Desktop\給代理商前測試\TEST\now_vis\dek_erpvis\dekERP_dll\bin\Release\dekERP_dll.dll
+C:\Users\user\Desktop\給代理商前測試\TEST\now_vis\dek_erpvis\dekERP_dll\bin\Release\dekERP_dll.pdb
+C:\Users\user\Desktop\給代理商前測試\TEST\now_vis\dek_erpvis\dekERP_dll\bin\Release\DBUtils.dll
+C:\Users\user\Desktop\給代理商前測試\TEST\now_vis\dek_erpvis\dekERP_dll\bin\Release\dekBase.dll
+C:\Users\user\Desktop\給代理商前測試\TEST\now_vis\dek_erpvis\dekERP_dll\bin\Release\Oracle.ManagedDataAccess.dll
+C:\Users\user\Desktop\給代理商前測試\TEST\now_vis\dek_erpvis\dekERP_dll\bin\Release\MySql.Data.dll
+C:\Users\user\Desktop\給代理商前測試\TEST\now_vis\dek_erpvis\dekERP_dll\obj\Release\dekERP_dll.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\給代理商前測試\TEST\now_vis\dek_erpvis\dekERP_dll\obj\Release\dekERP_dll.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\給代理商前測試\TEST\now_vis\dek_erpvis\dekERP_dll\obj\Release\dekERP_dll.csproj.CopyComplete
+C:\Users\user\Desktop\給代理商前測試\TEST\now_vis\dek_erpvis\dekERP_dll\obj\Release\dekERP_dll.dll
+C:\Users\user\Desktop\給代理商前測試\TEST\now_vis\dek_erpvis\dekERP_dll\obj\Release\dekERP_dll.pdb
+C:\Users\user\Desktop\給代理商前測試\now_vis\dek_erpvis\dekERP_dll\bin\Release\dekERP_dll.dll
+C:\Users\user\Desktop\給代理商前測試\now_vis\dek_erpvis\dekERP_dll\bin\Release\dekERP_dll.pdb
+C:\Users\user\Desktop\給代理商前測試\now_vis\dek_erpvis\dekERP_dll\bin\Release\DBUtils.dll
+C:\Users\user\Desktop\給代理商前測試\now_vis\dek_erpvis\dekERP_dll\bin\Release\dekBase.dll
+C:\Users\user\Desktop\給代理商前測試\now_vis\dek_erpvis\dekERP_dll\bin\Release\dekSecure.dll
+C:\Users\user\Desktop\給代理商前測試\now_vis\dek_erpvis\dekERP_dll\bin\Release\MongoDB.Bson.dll
+C:\Users\user\Desktop\給代理商前測試\now_vis\dek_erpvis\dekERP_dll\bin\Release\MongoDB.Driver.Core.dll
+C:\Users\user\Desktop\給代理商前測試\now_vis\dek_erpvis\dekERP_dll\bin\Release\MongoDB.Driver.dll
+C:\Users\user\Desktop\給代理商前測試\now_vis\dek_erpvis\dekERP_dll\bin\Release\MongoUtils.dll
+C:\Users\user\Desktop\給代理商前測試\now_vis\dek_erpvis\dekERP_dll\bin\Release\Oracle.ManagedDataAccess.dll
+C:\Users\user\Desktop\給代理商前測試\now_vis\dek_erpvis\dekERP_dll\bin\Release\Support.dll
+C:\Users\user\Desktop\給代理商前測試\now_vis\dek_erpvis\dekERP_dll\bin\Release\MySql.Data.dll
+C:\Users\user\Desktop\給代理商前測試\now_vis\dek_erpvis\dekERP_dll\bin\Release\EPPlus.dll
+C:\Users\user\Desktop\給代理商前測試\now_vis\dek_erpvis\dekERP_dll\obj\Release\dekERP_dll.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\給代理商前測試\now_vis\dek_erpvis\dekERP_dll\obj\Release\dekERP_dll.csproj.CopyComplete
+C:\Users\user\Desktop\給代理商前測試\now_vis\dek_erpvis\dekERP_dll\obj\Release\dekERP_dll.dll
+C:\Users\user\Desktop\給代理商前測試\now_vis\dek_erpvis\dekERP_dll\obj\Release\dekERP_dll.pdb
+D:\專案\給代理商前測試\now_vis\dek_erpvis\dekERP_dll\bin\Release\dekERP_dll.dll
+D:\專案\給代理商前測試\now_vis\dek_erpvis\dekERP_dll\bin\Release\dekERP_dll.pdb
+D:\專案\給代理商前測試\now_vis\dek_erpvis\dekERP_dll\bin\Release\DBUtils.dll
+D:\專案\給代理商前測試\now_vis\dek_erpvis\dekERP_dll\bin\Release\MongoDB.Bson.dll
+D:\專案\給代理商前測試\now_vis\dek_erpvis\dekERP_dll\bin\Release\MongoDB.Driver.Core.dll
+D:\專案\給代理商前測試\now_vis\dek_erpvis\dekERP_dll\bin\Release\MongoDB.Driver.dll
+D:\專案\給代理商前測試\now_vis\dek_erpvis\dekERP_dll\bin\Release\MongoUtils.dll
+D:\專案\給代理商前測試\now_vis\dek_erpvis\dekERP_dll\bin\Release\Support.dll
+D:\專案\給代理商前測試\now_vis\dek_erpvis\dekERP_dll\bin\Release\MySql.Data.dll
+D:\專案\給代理商前測試\now_vis\dek_erpvis\dekERP_dll\bin\Release\EPPlus.dll
+D:\專案\給代理商前測試\now_vis\dek_erpvis\dekERP_dll\obj\Release\dekERP_dll.csproj.AssemblyReference.cache
+D:\專案\給代理商前測試\now_vis\dek_erpvis\dekERP_dll\obj\Release\dekERP_dll.csproj.CoreCompileInputs.cache
+D:\專案\給代理商前測試\now_vis\dek_erpvis\dekERP_dll\obj\Release\dekERP_dll.csproj.CopyComplete
+D:\專案\給代理商前測試\now_vis\dek_erpvis\dekERP_dll\obj\Release\dekERP_dll.dll
+D:\專案\給代理商前測試\now_vis\dek_erpvis\dekERP_dll\obj\Release\dekERP_dll.pdb
+D:\昱閔交接專案\客戶20220429\給代理商前測試\now_vis\dek_erpvis\dekERP_dll\bin\Release\dekERP_dll.dll
+D:\昱閔交接專案\客戶20220429\給代理商前測試\now_vis\dek_erpvis\dekERP_dll\bin\Release\dekERP_dll.pdb
+D:\昱閔交接專案\客戶20220429\給代理商前測試\now_vis\dek_erpvis\dekERP_dll\bin\Release\MongoDB.Bson.dll
+D:\昱閔交接專案\客戶20220429\給代理商前測試\now_vis\dek_erpvis\dekERP_dll\bin\Release\MongoDB.Driver.Core.dll
+D:\昱閔交接專案\客戶20220429\給代理商前測試\now_vis\dek_erpvis\dekERP_dll\bin\Release\MongoDB.Driver.dll
+D:\昱閔交接專案\客戶20220429\給代理商前測試\now_vis\dek_erpvis\dekERP_dll\obj\Release\dekERP_dll.csproj.AssemblyReference.cache
+D:\昱閔交接專案\客戶20220429\給代理商前測試\now_vis\dek_erpvis\dekERP_dll\obj\Release\dekERP_dll.csproj.CoreCompileInputs.cache
+D:\昱閔交接專案\客戶20220429\給代理商前測試\now_vis\dek_erpvis\dekERP_dll\obj\Release\dekERP_dll.csproj.CopyComplete
+D:\昱閔交接專案\客戶20220429\給代理商前測試\now_vis\dek_erpvis\dekERP_dll\obj\Release\dekERP_dll.dll
+D:\昱閔交接專案\客戶20220429\給代理商前測試\now_vis\dek_erpvis\dekERP_dll\obj\Release\dekERP_dll.pdb
+D:\Project\Program\VIS\客戶20220429\給代理商前測試\now_vis\dek_erpvis\dekERP_dll\bin\Release\dekERP_dll.dll
+D:\Project\Program\VIS\客戶20220429\給代理商前測試\now_vis\dek_erpvis\dekERP_dll\bin\Release\dekERP_dll.pdb
+D:\Project\Program\VIS\客戶20220429\給代理商前測試\now_vis\dek_erpvis\dekERP_dll\bin\Release\MongoDB.Bson.dll
+D:\Project\Program\VIS\客戶20220429\給代理商前測試\now_vis\dek_erpvis\dekERP_dll\bin\Release\MongoDB.Driver.Core.dll
+D:\Project\Program\VIS\客戶20220429\給代理商前測試\now_vis\dek_erpvis\dekERP_dll\bin\Release\MongoDB.Driver.dll
+D:\Project\Program\VIS\客戶20220429\給代理商前測試\now_vis\dek_erpvis\dekERP_dll\obj\Release\dekERP_dll.csproj.AssemblyReference.cache
+D:\Project\Program\VIS\客戶20220429\給代理商前測試\now_vis\dek_erpvis\dekERP_dll\obj\Release\dekERP_dll.csproj.CoreCompileInputs.cache
+D:\Project\Program\VIS\客戶20220429\給代理商前測試\now_vis\dek_erpvis\dekERP_dll\obj\Release\dekERP_dll.csproj.CopyComplete
+D:\Project\Program\VIS\客戶20220429\給代理商前測試\now_vis\dek_erpvis\dekERP_dll\obj\Release\dekERP_dll.dll
+D:\Project\Program\VIS\客戶20220429\給代理商前測試\now_vis\dek_erpvis\dekERP_dll\obj\Release\dekERP_dll.pdb
+D:\Project\Program\VIS\客戶2022\給代理商前測試\now_vis\dek_erpvis\dekERP_dll\bin\Release\dekERP_dll.dll
+D:\Project\Program\VIS\客戶2022\給代理商前測試\now_vis\dek_erpvis\dekERP_dll\bin\Release\dekERP_dll.pdb
+D:\Project\Program\VIS\客戶2022\給代理商前測試\now_vis\dek_erpvis\dekERP_dll\bin\Release\MongoDB.Bson.dll
+D:\Project\Program\VIS\客戶2022\給代理商前測試\now_vis\dek_erpvis\dekERP_dll\bin\Release\MongoDB.Driver.Core.dll
+D:\Project\Program\VIS\客戶2022\給代理商前測試\now_vis\dek_erpvis\dekERP_dll\bin\Release\MongoDB.Driver.dll
+D:\Project\Program\VIS\客戶2022\給代理商前測試\now_vis\dek_erpvis\dekERP_dll\obj\Release\dekERP_dll.csproj.CoreCompileInputs.cache
+D:\Project\Program\VIS\客戶2022\給代理商前測試\now_vis\dek_erpvis\dekERP_dll\obj\Release\dekERP_dll.csproj.CopyComplete
+D:\Project\Program\VIS\客戶2022\給代理商前測試\now_vis\dek_erpvis\dekERP_dll\obj\Release\dekERP_dll.dll
+D:\Project\Program\VIS\客戶2022\給代理商前測試\now_vis\dek_erpvis\dekERP_dll\obj\Release\dekERP_dll.pdb
+D:\Project\Program\VIS\客戶2022\給代理商前測試\now_vis\dek_erpvis\dekERP_dll\obj\Release\dekERP_dll.csproj.AssemblyReference.cache
+D:\Litz\客戶2022\給代理商前測試\now_vis\dek_erpvis\dekERP_dll\bin\Release\dekERP_dll.dll
+D:\Litz\客戶2022\給代理商前測試\now_vis\dek_erpvis\dekERP_dll\bin\Release\dekERP_dll.pdb
+D:\Litz\客戶2022\給代理商前測試\now_vis\dek_erpvis\dekERP_dll\bin\Release\MongoDB.Bson.dll
+D:\Litz\客戶2022\給代理商前測試\now_vis\dek_erpvis\dekERP_dll\bin\Release\MongoDB.Driver.Core.dll
+D:\Litz\客戶2022\給代理商前測試\now_vis\dek_erpvis\dekERP_dll\bin\Release\MongoDB.Driver.dll
+D:\Litz\客戶2022\給代理商前測試\now_vis\dek_erpvis\dekERP_dll\obj\Release\dekERP_dll.csproj.AssemblyReference.cache
+D:\Litz\客戶2022\給代理商前測試\now_vis\dek_erpvis\dekERP_dll\obj\Release\dekERP_dll.csproj.CoreCompileInputs.cache
+D:\Litz\客戶2022\給代理商前測試\now_vis\dek_erpvis\dekERP_dll\obj\Release\dekERP_dll.csproj.CopyComplete
+D:\Litz\客戶2022\給代理商前測試\now_vis\dek_erpvis\dekERP_dll\obj\Release\dekERP_dll.dll
+D:\Litz\客戶2022\給代理商前測試\now_vis\dek_erpvis\dekERP_dll\obj\Release\dekERP_dll.pdb
