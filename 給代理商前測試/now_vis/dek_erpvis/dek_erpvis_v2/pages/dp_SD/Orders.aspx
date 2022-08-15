@@ -2,7 +2,7 @@
 
 <%--<%@ OutputCache duration="10" varybyparam="None" %>--%>
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
-    <title>訂單統計 | 德大機械</title>
+    <title>訂單統計 |<%= WebUtils.GetAppSettings("Company_Name") %></title>
     <%=color %>
 
     <link href="../../Content/table.css" rel="stylesheet" />

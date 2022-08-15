@@ -34,3 +34,10 @@ D:\Litz\客戶2022\給代理商前測試\now_vis\dek_erpvis\Lock_dll\obj\Release
 D:\Litz\客戶2022\給代理商前測試\now_vis\dek_erpvis\Lock_dll\obj\Release\Lock_dll.csproj.CopyComplete
 D:\Litz\客戶2022\給代理商前測試\now_vis\dek_erpvis\Lock_dll\obj\Release\Lock_dll.dll
 D:\Litz\客戶2022\給代理商前測試\now_vis\dek_erpvis\Lock_dll\obj\Release\Lock_dll.pdb
+D:\Litz\LitzGit\給代理商前測試\now_vis\dek_erpvis\Lock_dll\bin\Release\Lock_dll.dll
+D:\Litz\LitzGit\給代理商前測試\now_vis\dek_erpvis\Lock_dll\bin\Release\Lock_dll.pdb
+D:\Litz\LitzGit\給代理商前測試\now_vis\dek_erpvis\Lock_dll\obj\Release\Lock_dll.csproj.AssemblyReference.cache
+D:\Litz\LitzGit\給代理商前測試\now_vis\dek_erpvis\Lock_dll\obj\Release\Lock_dll.csproj.CoreCompileInputs.cache
+D:\Litz\LitzGit\給代理商前測試\now_vis\dek_erpvis\Lock_dll\obj\Release\Lock_dll.csproj.CopyComplete
+D:\Litz\LitzGit\給代理商前測試\now_vis\dek_erpvis\Lock_dll\obj\Release\Lock_dll.dll
+D:\Litz\LitzGit\給代理商前測試\now_vis\dek_erpvis\Lock_dll\obj\Release\Lock_dll.pdb

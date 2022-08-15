@@ -99,3 +99,13 @@ D:\Litz\客戶2022\給代理商前測試\now_vis\dek_erpvis\dekERP_dll\obj\Relea
 D:\Litz\客戶2022\給代理商前測試\now_vis\dek_erpvis\dekERP_dll\obj\Release\dekERP_dll.csproj.CopyComplete
 D:\Litz\客戶2022\給代理商前測試\now_vis\dek_erpvis\dekERP_dll\obj\Release\dekERP_dll.dll
 D:\Litz\客戶2022\給代理商前測試\now_vis\dek_erpvis\dekERP_dll\obj\Release\dekERP_dll.pdb
+D:\Litz\LitzGit\給代理商前測試\now_vis\dek_erpvis\dekERP_dll\bin\Release\dekERP_dll.dll
+D:\Litz\LitzGit\給代理商前測試\now_vis\dek_erpvis\dekERP_dll\bin\Release\dekERP_dll.pdb
+D:\Litz\LitzGit\給代理商前測試\now_vis\dek_erpvis\dekERP_dll\bin\Release\MongoDB.Bson.dll
+D:\Litz\LitzGit\給代理商前測試\now_vis\dek_erpvis\dekERP_dll\bin\Release\MongoDB.Driver.Core.dll
+D:\Litz\LitzGit\給代理商前測試\now_vis\dek_erpvis\dekERP_dll\bin\Release\MongoDB.Driver.dll
+D:\Litz\LitzGit\給代理商前測試\now_vis\dek_erpvis\dekERP_dll\obj\Release\dekERP_dll.csproj.AssemblyReference.cache
+D:\Litz\LitzGit\給代理商前測試\now_vis\dek_erpvis\dekERP_dll\obj\Release\dekERP_dll.csproj.CoreCompileInputs.cache
+D:\Litz\LitzGit\給代理商前測試\now_vis\dek_erpvis\dekERP_dll\obj\Release\dekERP_dll.csproj.CopyComplete
+D:\Litz\LitzGit\給代理商前測試\now_vis\dek_erpvis\dekERP_dll\obj\Release\dekERP_dll.dll
+D:\Litz\LitzGit\給代理商前測試\now_vis\dek_erpvis\dekERP_dll\obj\Release\dekERP_dll.pdb
